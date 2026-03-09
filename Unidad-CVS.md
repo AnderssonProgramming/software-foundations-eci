@@ -103,7 +103,7 @@ Para evidenciar el logro del objetivo, revisa estos tutoriales donde resolvemos 
 
 📺 **Ver el Video:** [Control de Versiones en Java: Git + GitHub](https://youtu.be/turysdDQJRI)
 
-### 🗄️ Para MYSD (Modelado y Soluciones de Datos)
+### 🗄️ Para MYSD (Modelos y Servicios de Datos)
 ¿Cómo editar el mismo script SQL sin arruinar la base de datos de tu compañero?
 
 * **Caso de estudio:** Edición paralela de `esquema.sql`.

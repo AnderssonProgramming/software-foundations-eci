@@ -7,7 +7,7 @@ permalink: /home/
 
 # 🚀 IS-FUNDAMENTOS-LEARNING: Centro de Objetos de Aprendizaje
 
-Bienvenidos al repositorio central de la línea de **Fundamentos de Software**. Este espacio funciona como un **Objeto de Aprendizaje (OA)** integral, diseñado para ser autocontenido y autoformativo, apoyando el desarrollo técnico de los estudiantes de **DOPO (Desarrollo Orientado por Objetos)** y **MYSD (Modelado y Soluciones de Datos)**.
+Bienvenidos al repositorio central de la línea de **Fundamentos de Software**. Este espacio funciona como un **Objeto de Aprendizaje (OA)** integral, diseñado para ser autocontenido y autoformativo, apoyando el desarrollo técnico de los estudiantes de **DOPO (Desarrollo Orientado por Objetos)** y **MYSD (Modelos y Servicios de Datos)**.
 
 ---
 

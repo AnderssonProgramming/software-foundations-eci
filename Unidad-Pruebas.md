@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Unidad 2: Pruebas
-nav_order: 3
+title: "Unidad 2: Pruebas"
+nav_order: 4
 ---
 
 # 🧪 Unidad 2: Pruebas Unitarias (JUnit)
 > **Línea de Fundamentos de Software** | *IS-FUNDAMENTOS-LEARNING*
 > Monitoría de **DOPO (Desarrollo Orientado por Objetos)** 🎓
 
-> [!NOTE]
+{: .note }
 > **Resultados de Aprendizaje:** Al finalizar esta unidad, comprenderás los conceptos principales de las pruebas de unidad, aplicarás buenas prácticas de diseño de pruebas y utilizarás **JUnit** dentro del entorno **BlueJ** para asegurar la calidad de tus proyectos.
 
 ---
@@ -51,7 +51,7 @@ No basta con probar que el programa funciona cuando todo sale bien. Debemos cont
 
 Para incluir pruebas unitarias en un proyecto profesional, seguimos **tres reglas de oro inquebrantables**:
 
-> [!IMPORTANT]
+{: .important }
 > 1. **Code the unit test first (TDD):** Escribe la prueba *antes* que el código funcional. La prueba fallará primero (Rojo), luego escribes el código para que pase (Verde) y finalmente mejoras el código (Refactor).
 > 2. **All code must have unit tests:** Ninguna clase de lógica de negocio se considera terminada si no tiene su respectiva clase `Test` que valide sus métodos.
 > 3. **When a bug is found, tests are created:** Si un usuario reporta un error, **no lo arregles de inmediato**. Primero crea una prueba que replique el error, y luego modifica tu código hasta que esa prueba pase exitosamente.
@@ -110,7 +110,7 @@ public class CuentaBancariaTest {
 
 ## 📚 Verificación y Recursos Adicionales
 
-> [!TIP]
+{: .highlight }
 > **Reto Práctico:** Revisa el código del video y crea la prueba para el método `retirar()`. ¿Qué tipo de aserción usarías para el caso de error donde el usuario intenta retirar más dinero del que tiene en la cuenta?
 
 **Enlaces de interés:**

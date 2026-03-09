@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Unidad 1: CVS
-nav_order: 2
+title: "Unidad 1: CVS"
+nav_order: 3
 ---
 
 # 📦 Unidad 1: Control de Versiones (CVS)
 
-> [!NOTE]
+{: .note }
 > **Resultados de Aprendizaje:** Al finalizar esta unidad, comprenderás los conceptos de un CVS, aplicarás buenas prácticas de programación por pares y utilizarás Git de forma fluida en tus proyectos de **MYSD** y **DOPO**.
 
 ---
@@ -114,7 +114,7 @@ Para evidenciar el logro del objetivo, revisa estos tutoriales donde resolvemos 
 
 ## 📚 Verificación y Recursos Adicionales
 
-> [!WARNING]
+{: .warning }
 > **Pregunta de Verificación:** Si tú y tu compañero modifican la misma línea de código en ramas distintas y ambos intentan fusionarla a `main`, ¿qué sucede y cómo se resuelve basándote en la teoría de grafos?
 
 **Enlaces de interés:**

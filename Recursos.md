@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 📚 Recursos y Bibliografía
-nav_order: 4
+title: "📚 Recursos y Bibliografía"
+nav_order: 5
 ---
 
 # 📚 Recursos y Bibliografía

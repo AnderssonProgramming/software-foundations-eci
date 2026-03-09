@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
-nav_order: 1
-permalink: /
+title: "🏠 Home"
+nav_order: 2
+permalink: /home/
 ---
 
 # 🚀 IS-FUNDAMENTOS-LEARNING: Centro de Objetos de Aprendizaje
@@ -51,5 +51,5 @@ Cada recurso en esta Wiki ha sido validado mediante:
 2. **Diseño Instruccional:** Secuencias didácticas de aprendizaje activo.
 3. **Validación:** Retroalimentación de pilotos y revisión por pares docentes.
 
-> [!TIP]
+{: .highlight }
 > **¿Eres estudiante nuevo?** Te recomendamos empezar por la **[Unidad 1: CVS](Unidad-CVS)** para establecer las bases de colaboración de tu proyecto de curso.

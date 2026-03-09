@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 📝 Bitácora de Cambios
-nav_order: 5
+title: "📝 Bitácora de Cambios"
+nav_order: 6
 ---
 
 # 📝 Bitácora de Cambios (Changelog)

@@ -7,12 +7,17 @@ url: "https://anderssonprogramming.github.io"
 # 💎 EL MEJOR TEMA: Just the Docs
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+
 # Configuración del Tema
-color_scheme: dark # Puedes usar 'light' si prefieres fondo blanco
+color_scheme: dark
 search_enabled: true
+heading_anchors: true
 aux_links:
   "GitHub Repository":
     - "https://github.com/anderssonprogramming/software-foundations-eci"
+aux_links_new_tab: true
 
 # Navegación
-nav_sort: r_order # Esto permite que tú controles el orden de las páginas
+nav_fold: false

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
+
 # 🚀 IS-FUNDAMENTOS-LEARNING: Repositorio Central de Monitoría
 > **Línea de Fundamentos de Software** | Escuela Colombiana de Ingeniería Julio Garavito
 > Recursos Educativos para **DOPO** y **MSYD** 🎓
@@ -19,16 +26,15 @@ Este repositorio constituye un **Objeto de Aprendizaje (OA)** diseñado bajo est
 ---
 
 ## 🗺️ Guía de Archivos y Contenido
-Cada archivo en este repositorio ha sido diseñado con una secuencia didáctica específica:
+Cada archivo en este repositorio ha sido diseñado con una secuencia didáctica específica. Puedes navegar a través del menú lateral o mediante estos enlaces:
 
 | Archivo | Propósito | Contenido Clave |
 | :--- | :--- | :--- |
-| **[🏠 Home.md](Home.md)** | **Página de Inicio** | Metodología del OA, contexto pedagógico y bienvenida. |
-| **[📦 Unidad-CVS.md](Unidad-CVS.md)** | **Control de Versiones** | S1: Teoría de Grafos, S2: Buenas Prácticas y S3: Git/GitHub. |
-| **[🧪 Unidad-Pruebas.md](Unidad-Pruebas.md)** | **Pruebas Unitarias** | R1: Conceptos BDD, R2: Estándares TDD y R3: JUnit en BlueJ. |
-| **[📚 Recursos.md](Recursos.md)** | **Bibliografía** | Enlaces externos, simuladores y documentación oficial. |
-| **[📝 Changelog.md](Changelog.md)** | **Bitácora** | Historial de versiones y mejoras del material educativo. |
-| **[📑 _Sidebar.md](_Sidebar.md)** | **Navegación** | Estructura de menú lateral para el despliegue en Wiki/Pages. |
+| **[🏠 Home](./)** | **Página de Inicio** | Metodología del OA, contexto pedagógico y bienvenida. |
+| **[📦 Unidad 1: CVS](./Unidad-CVS)** | **Control de Versiones** | S1: Teoría de Grafos, S2: Buenas Prácticas y S3: Git/GitHub. |
+| **[🧪 Unidad 2: Pruebas](./Unidad-Pruebas)** | **Pruebas Unitarias** | R1: Conceptos BDD, R2: Estándares TDD y R3: JUnit en BlueJ. |
+| **[📚 Recursos](./Recursos)** | **Bibliografía** | Enlaces externos, simuladores y documentación oficial. |
+| **[📝 Changelog](./Changelog)** | **Bitácora** | Historial de versiones y mejoras del material educativo. |
 
 ---
 
@@ -36,7 +42,12 @@ Cada archivo en este repositorio ha sido diseñado con una secuencia didáctica 
 Para la realización de las prácticas guiadas y el despliegue del material se utilizaron:
 * **Entornos:** BlueJ (Java), GitHub (CVS).
 * **Frameworks:** JUnit 4/5 para pruebas de unidad.
-* **Documentación:** Markdown avanzado con soporte para diagramas y metadatos.
+* **Documentación:** Markdown avanzado con soporte para metadatos (Jekyll).
+
+---
+
+## ⚖️ Licencia
+Este proyecto se distribuye bajo la licencia **Apache License 2.0**. Puedes consultar el archivo [LICENSE](LICENSE) para más detalles sobre el uso y redistribución del material.
 
 ---
 

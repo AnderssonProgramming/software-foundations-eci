@@ -1,0 +1,18 @@
+# Información del Sitio
+title: "IS-FUNDAMENTOS-LEARNING"
+description: "Centro de Objetos de Aprendizaje - Monitoría DOPO/MYSD"
+baseurl: "/software-foundations-eci" # Nombre de tu repo
+url: "https://anderssonprogramming.github.io"
+
+# 💎 EL MEJOR TEMA: Just the Docs
+remote_theme: just-the-docs/just-the-docs
+
+# Configuración del Tema
+color_scheme: dark # Puedes usar 'light' si prefieres fondo blanco
+search_enabled: true
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/anderssonprogramming/software-foundations-eci"
+
+# Navegación
+nav_sort: r_order # Esto permite que tú controles el orden de las páginas

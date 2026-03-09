@@ -2,6 +2,7 @@
 layout: default
 title: "Unidad 2: Pruebas"
 nav_order: 4
+permalink: /Unidad-Pruebas/
 ---
 
 # 🧪 Unidad 2: Pruebas Unitarias (JUnit)

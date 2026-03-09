@@ -2,6 +2,7 @@
 layout: default
 title: "Unidad 1: CVS"
 nav_order: 3
+permalink: /Unidad-CVS/
 ---
 
 # 📦 Unidad 1: Control de Versiones (CVS)

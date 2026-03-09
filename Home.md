@@ -21,14 +21,14 @@ Facilitar la apropiación de conceptos fundamentales de ingeniería mediante rec
 
 ## 🧩 Unidades de Aprendizaje Disponibles
 
-### 📦 [Unidad 1: Control de Versiones (CVS)](Unidad-CVS)
+### 📦 [Unidad 1: Control de Versiones (CVS)](../Unidad-CVS/)
 *Enfoque: Integridad de código y colaboración efectiva.*
 * **S1: Teoría:** El Grafo Dirigido Acíclico, vértices (versiones) y arcos.
 * **S2: Buenas Prácticas:** Estándares de colaboración por pares.
 * **S3: Herramienta:** Implementación técnica con Git y gestión de remotos.
 * **Práctica Guiada:** Ejemplos reales para DOPO y MYSD.
 
-### 🧪 [Unidad 2: Pruebas Unitarias (JUnit)](Unidad-Pruebas)
+### 🧪 [Unidad 2: Pruebas Unitarias (JUnit)](../Unidad-Pruebas/)
 *Enfoque: Calidad de software y diseño orientado a objetos.*
 * **R1: Conceptos:** Introducción a BDD y anatomía de una prueba de unidad.
 * **R2: Buenas Prácticas:** Metodología "Test First" y gestión de bugs.
@@ -52,4 +52,4 @@ Cada recurso en esta Wiki ha sido validado mediante:
 3. **Validación:** Retroalimentación de pilotos y revisión por pares docentes.
 
 {: .highlight }
-> **¿Eres estudiante nuevo?** Te recomendamos empezar por la **[Unidad 1: CVS](Unidad-CVS)** para establecer las bases de colaboración de tu proyecto de curso.
+> **¿Eres estudiante nuevo?** Te recomendamos empezar por la **[Unidad 1: CVS](../Unidad-CVS/)** para establecer las bases de colaboración de tu proyecto de curso.

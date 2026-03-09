@@ -2,6 +2,7 @@
 layout: default
 title: "📚 Recursos y Bibliografía"
 nav_order: 5
+permalink: /Recursos/
 ---
 
 # 📚 Recursos y Bibliografía

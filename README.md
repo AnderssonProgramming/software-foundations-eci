@@ -30,7 +30,7 @@ Cada archivo en este repositorio ha sido diseñado con una secuencia didáctica 
 
 | Archivo | Propósito | Contenido Clave |
 | :--- | :--- | :--- |
-| **[🏠 Home](./)** | **Página de Inicio** | Metodología del OA, contexto pedagógico y bienvenida. |
+| **[🏠 Home](./home/)** | **Página de Inicio** | Metodología del OA, contexto pedagógico y bienvenida. |
 | **[📦 Unidad 1: CVS](./Unidad-CVS)** | **Control de Versiones** | S1: Teoría de Grafos, S2: Buenas Prácticas y S3: Git/GitHub. |
 | **[🧪 Unidad 2: Pruebas](./Unidad-Pruebas)** | **Pruebas Unitarias** | R1: Conceptos BDD, R2: Estándares TDD y R3: JUnit en BlueJ. |
 | **[📚 Recursos](./Recursos)** | **Bibliografía** | Enlaces externos, simuladores y documentación oficial. |

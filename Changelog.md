@@ -2,6 +2,7 @@
 layout: default
 title: "📝 Bitácora de Cambios"
 nav_order: 6
+permalink: /Changelog/
 ---
 
 # 📝 Bitácora de Cambios (Changelog)

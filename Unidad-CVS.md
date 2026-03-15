@@ -8,7 +8,7 @@ permalink: /Unidad-CVS/
 # 📦 Unidad 1: Control de Versiones (CVS)
 
 {: .note }
-> **Resultados de Aprendizaje:** Al finalizar esta unidad, comprenderás los conceptos de un CVS, aplicarás buenas prácticas de programación por pares y utilizarás Git de forma fluida en tus proyectos de **MYSD** y **DOPO**.
+> **Resultados de Aprendizaje:** Al finalizar esta unidad, comprenderás los conceptos de un CVS, aplicarás buenas prácticas de programación por pares y utilizarás Git de forma fluida en tus proyectos de **MYSD (Modelos y Servicios de Datos)** y **DOPO (Desarrollo Orientado por Objetos)**.
 
 ---
 

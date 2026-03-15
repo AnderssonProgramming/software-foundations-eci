@@ -69,6 +69,15 @@ BlueJ tiene una integración visual excelente con JUnit. Las clases de prueba se
 
 ---
 
+## 🖼️ Material de Apoyo Visual
+
+Refuerza los conceptos de TDD, BDD y el entorno de BlueJ con el siguiente material gráfico:
+
+{: .highlight }
+> 🚀 **Diapositivas de la Unidad:** [Presentación Interactiva - Pruebas Unitarias (Canva)](https://heliogen.my.canva.site/pruebas-unitarias-dopo)
+
+---
+
 ## 🎥 Práctica Guiada: El Reto de la Cuenta Bancaria
 
 ¿Tu código realmente hace lo que crees que hace? En este tutorial en video, aplicamos toda la teoría anterior utilizando el ejemplo de una `CuentaBancaria`.

@@ -7,7 +7,7 @@ permalink: /Unidad-SQL/
 
 # 🗄️ Unidad 3: Entornos de Trabajo Oracle SQL
 > **Línea de Fundamentos de Software** | *IS-FUNDAMENTOS-LEARNING*
-> Monitoría de **Modelos y Soluciones de Datos (MYSD)** 🎓
+> Monitoría de **Modelos y Servicios de Datos (MYSD)** 🎓
 
 {: .note }
 > **Resultados de Aprendizaje:** Al finalizar esta unidad, estarás en capacidad de configurar tu entorno de desarrollo, establecer conexiones estables con los servidores de la Escuela y gestionar eficientemente tus scripts de base de datos en ambientes remotos y locales.

@@ -16,8 +16,8 @@ Todos los cambios notables en este repositorio de monitoría serán documentados
 ### ✨ Añadido
 - **Unidad 3: Oracle SQL**: Guía completa de conexión remota (Granate) y local (XE).
 - **Soporte para VS Code**: Inclusión de la extensión oficial de Oracle SQL Developer como alternativa ligera.
-- **Migración a Just the Docs**: Implementación del tema profesional con navegación lateral, barra de búsqueda y optimización para móviles.
 - **Recursos de MYSD**: Actualización de la biblioteca con enlaces a VPN institucional y descargas de Oracle.
+- **Integración de diapositivas**: Interacción de páginas web **Canva** en las Unidades 1 (CVS) y 2 (Pruebas).
 
 ## [1.1.0] - 2026-03-08
 ### ✨ Añadido

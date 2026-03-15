@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "📝 Bitácora de Cambios"
-nav_order: 6
+nav_order: 7
 permalink: /Changelog/
 ---
 
@@ -11,6 +11,13 @@ permalink: /Changelog/
 Todos los cambios notables en este repositorio de monitoría serán documentados en esta página.
 
 ---
+
+## [1.2.0] - 2026-03-14
+### ✨ Añadido
+- **Unidad 3: Oracle SQL**: Guía completa de conexión remota (Granate) y local (XE).
+- **Soporte para VS Code**: Inclusión de la extensión oficial de Oracle SQL Developer como alternativa ligera.
+- **Migración a Just the Docs**: Implementación del tema profesional con navegación lateral, barra de búsqueda y optimización para móviles.
+- **Recursos de MYSD**: Actualización de la biblioteca con enlaces a VPN institucional y descargas de Oracle.
 
 ## [1.1.0] - 2026-03-08
 ### ✨ Añadido

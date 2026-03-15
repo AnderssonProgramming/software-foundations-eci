@@ -34,12 +34,19 @@ Facilitar la apropiación de conceptos fundamentales de ingeniería mediante rec
 * **R2: Buenas Prácticas:** Metodología "Test First" y gestión de bugs.
 * **R3: Herramienta:** Uso de JUnit dentro del ecosistema BlueJ.
 
+### 🗄️ [Unidad 3: Oracle SQL (MYSD)](../Unidad-SQL/)
+*Enfoque: Gestión de bases de datos y entornos de desarrollo.*
+* **Ambientes:** Configuración de servidor remoto (Granate) y local (XE).
+* **Herramientas:** Uso de SQL Developer y extensión oficial para VS Code.
+* **Protocolos:** Vaciado de bases de datos y Troubleshooting de conexión.
+
 ---
 
 ## 🛠️ Entorno Tecnológico
 Para garantizar la modularidad y replicabilidad, trabajamos con:
 * **Control de Versiones:** `Git` & `GitHub`
 * **Desarrollo OO:** `Java` & `BlueJ`
+* **Bases de Datos:** `Oracle SQL Developer` & `Oracle XE`
 * **Modelado:** Archivos `.asta` (Astah)
 * **Calidad:** `JUnit Framework`
 

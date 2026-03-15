@@ -33,6 +33,7 @@ Cada archivo en este repositorio ha sido diseñado con una secuencia didáctica 
 | **[🏠 Home](./home/)** | **Página de Inicio** | Metodología del OA, contexto pedagógico y bienvenida. |
 | **[📦 Unidad 1: CVS](./Unidad-CVS)** | **Control de Versiones** | S1: Teoría de Grafos, S2: Buenas Prácticas y S3: Git/GitHub. |
 | **[🧪 Unidad 2: Pruebas](./Unidad-Pruebas)** | **Pruebas Unitarias** | R1: Conceptos BDD, R2: Estándares TDD y R3: JUnit en BlueJ. |
+| **[🗄️ Unidad 3: SQL](./Unidad-SQL/)** | **Oracle SQL** | Configuración de servidor remoto, Oracle XE y VS Code. |
 | **[📚 Recursos](./Recursos)** | **Bibliografía** | Enlaces externos, simuladores y documentación oficial. |
 | **[📝 Changelog](./Changelog)** | **Bitácora** | Historial de versiones y mejoras del material educativo. |
 
@@ -40,10 +41,9 @@ Cada archivo en este repositorio ha sido diseñado con una secuencia didáctica 
 
 ## 🛠️ Stack Tecnológico
 Para la realización de las prácticas guiadas y el despliegue del material se utilizaron:
-* **Entornos:** BlueJ (Java), GitHub (CVS).
+* **Entornos:** BlueJ (Java), GitHub (CVS), Oracle SQL Developer.
 * **Frameworks:** JUnit 4/5 para pruebas de unidad.
-* **Documentación:** Markdown avanzado con soporte para metadatos (Jekyll).
-
+* **Documentación:** Markdown avanzado con soporte para metadatos (Jekyll) y tema **Just the Docs**.
 ---
 
 ## ⚖️ Licencia

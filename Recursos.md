@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "📚 Recursos y Bibliografía"
-nav_order: 5
+nav_order: 6
 permalink: /Recursos/
 ---
 
@@ -21,6 +21,11 @@ En esta sección encontrarás el material de referencia oficial y herramientas r
 * ☕ [**JUnit 4/5 User Guide**](https://junit.org/junit5/docs/current/user-guide/): Todo sobre anotaciones y aserciones.
 * 🧩 [**BlueJ Unit Testing Tutorial**](https://www.bluej.org/tutorial/testing-tutorial.pdf): Guía oficial para el entorno BlueJ.
 * 📖 [**Refactoring.com**](https://refactoring.com/): Conceptos clave para mejorar el código después de que las pruebas pasen.
+
+## 🗄️ Bases de Datos (Oracle SQL)
+* 📘 [**Descarga de Oracle SQL Developer**](https://www.oracle.com/database/sqldeveloper/): Herramienta principal para MYSD.
+* 📦 [**Oracle Database Express Edition (XE)**](https://www.oracle.com/database/technologies/xe-downloads.html): Para prácticas en ambiente local.
+* 🔌 [**SQL Developer Extension for VS Code**](https://marketplace.visualstudio.com/items?itemName=oracle.sql-developer): Alternativa ligera para desarrollo integrado.
 
 ## 🛠️ Herramientas de la Escuela
 * 📐 [**Astah Community/Student**](https://astah.net/): Para el modelado de diagramas de clase y entidad-relación (.asta).

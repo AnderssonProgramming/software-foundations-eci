@@ -13,6 +13,10 @@
 * [💻 R3: JUnit en BlueJ](Unidad-Pruebas#r3)
 * [🎥 Práctica: CuentaBancaria](Unidad-Pruebas#demo)
 
+### 🗄️ Módulo SQL
+* [📖 Configuración y Conexión](Unidad-SQL)
+* [💻 Entornos (Remote vs Local)](Unidad-SQL#🏠-c-trabajo-en-local-oracle-xe)
+
 ### 📚 Recursos
 * [🔗 Bibliografía y Enlaces](Recursos)
 * [📝 Bitácora de Cambios](Changelog)

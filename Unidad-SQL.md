@@ -75,6 +75,15 @@ Si deseas realizar prácticas privadas o no dispones de conexión a internet (VP
 
 ---
 
+## 🖼️ Material de Apoyo Visual
+
+Para una explicación visual detallada sobre la instalación y los tipos de conexión, consulta las diapositivas oficiales de la monitoría:
+
+{: .highlight }
+> 🚀 **Diapositivas de la Unidad:** [Presentación Interactiva - Oracle SQL Developer (Canva)](https://heliogen.my.canva.site/oracle-sql-developer-mysd)
+
+---
+
 ## 📚 Verificación y Recursos Adicionales
 
 {: .warning }

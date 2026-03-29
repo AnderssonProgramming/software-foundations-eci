@@ -40,7 +40,7 @@ Utiliza la siguiente tabla para configurar tu acceso al servidor **Granate**:
 
 ## ⚡ B. Alternativa Moderna: SQL Developer para VS Code
 
-Para los estudiantes que prefieren un flujo de trabajo integrado, es posible utilizar Visual Studio Code mediante la extensión oficial de Oracle.
+Para los estudiantes que prefieren un flujo de trabajo integrado, es posible utilizar Visual Studio Code mediante la extensión oficial de Oracle, pero para este curso no se recomienda por el uso de herramientas de IA para generar el código.
 
 ### Pasos para la configuración:
 1. Desde el Marketplace de VS Code, instala: **"Oracle SQL Developer Extension for VSCode"**.
@@ -59,6 +59,8 @@ Para los estudiantes que prefieren un flujo de trabajo integrado, es posible uti
 Si deseas realizar prácticas privadas o no dispones de conexión a internet (VPN), puedes utilizar **Oracle Express Edition (XE)** instalado en tu propia máquina.
 
 * **Hostname:** `localhost`
+* **Hostname:** `localhost`
+* **Hostname:** `localhost`
 * **Port:** `1521`
 * **SID:** `xe`
 
@@ -70,14 +72,14 @@ Si deseas realizar prácticas privadas o no dispones de conexión a internet (VP
 > **Protocolo de Vaciado:** El servidor `granate` es un recurso compartido. Al finalizar tu sesión, es responsabilidad del estudiante ejecutar el vaciado de tablas temporales para evitar la saturación del espacio en disco de la base de datos común.
 
 ### Problemas Frecuentes (Troubleshooting)
-* **Error de Red:** Asegúrate de estar conectado a la red física de la Escuela o tener activa la VPN institucional.
-* **Credenciales:** Verifica que tu usuario `bd` no tenga espacios adicionales y que la contraseña esté en minúsculas.
+* **En local:** Verifica que los servicios `OracleServiceXE` y el `Listener` estén iniciados en `services.msc`.
+* **En servidor:** Verifica que tu usuario `bd` no tenga espacios adicionales y que la contraseña esté en minúsculas.
 
 ---
 
 ## 🖼️ Material de Apoyo Visual
 
-Para una explicación visual detallada sobre la instalación y los tipos de conexión, consulta las diapositivas oficiales de la monitoría:
+Para una explicación visual detallada sobre la instalación y los tipos de conexión, consulta las diapositivas interactivas diseñadas para esta unidad:
 
 {: .highlight }
 > 🚀 **Diapositivas de la Unidad:** [Presentación Interactiva - Oracle SQL Developer (Canva)](https://heliogen.my.canva.site/oracle-sql-developer-mysd)

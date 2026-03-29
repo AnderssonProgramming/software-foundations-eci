@@ -52,10 +52,19 @@ Este proyecto se distribuye bajo la licencia **Apache License 2.0**. Puedes cons
 ---
 
 ## 🎥 Recursos Multimedia Destacados
-El repositorio integra tutoriales exclusivos realizados para la monitoría:
-* 🎬 **CVS en Java (DOPO):** Gestión de conflictos y ramas.
-* 🎬 **CVS en SQL (MYSD):** Control de esquemas de bases de datos.
-* 🎬 **Pruebas con JUnit:** TDD y BDD aplicados a "Cuenta Bancaria".
+El repositorio integra tutoriales exclusivos diseñados para guiarte paso a paso en cada unidad:
+
+### 📦 Módulo: Control de Versiones (CVS)
+* 🎬 **CVS en Java (DOPO):** Gestión de conflictos y flujo de trabajo con ramas.
+* 🎬 **CVS en SQL (MYSD):** Control de esquemas de bases de datos colaborativos.
+
+### 🧪 Módulo: Pruebas Unitarias
+* 🎬 **Pruebas con JUnit:** Implementación de TDD y BDD aplicados al caso "Cuenta Bancaria".
+
+### 🗄️ Módulo: Oracle SQL (MYSD)
+* 🎬 **Instalación y Personalización:** Preparación de SQL Developer.
+* 🎬 **Conexión a Granate:** Configuración del acceso al servidor remoto de la Escuela.
+* 🎬 **Oracle XE Local:** Instalación y configuración de tu propio laboratorio autónomo.
 
 ---
 
